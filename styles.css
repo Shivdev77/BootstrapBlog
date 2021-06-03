@@ -1,0 +1,10 @@
+.icon-check {
+  color: black;
+  padding-left: 12px;
+  padding-right: 12px;
+
+}
+
+.icon-check:visited {
+  color: black;
+}
